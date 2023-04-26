@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linux987598
 - 👀 I’m interested in typing,watching movies,WWE.
-- 🌱 I’m currently learning github,web bootcamp,ehtical hacking.
+- 🌱 I’m currently learning github,web bootcamp,ethical hacking.
 - 💞️ I’m looking to collaborate on web development or ethical hacking.
 - 📫 How to reach me through email:harsha654265@gmail.com
 
