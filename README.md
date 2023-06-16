@@ -2,7 +2,7 @@
 - 👀 I’m interested in Watching WWE.
 - 🌱 I’m currently learning github,ethical hacking.
 - 💞️ I’m looking to collaborate on ethical hacking.
-- 📫 How to reach me through email:harsha654265@gmail.com
+- Contact Me If U Have Any Queries :harsha654265@gmail.com
 
 <!---
 linux987598/linux987598 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
