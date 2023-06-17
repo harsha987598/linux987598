@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @linux987598 known as Harsha.
 - 👀 I’m interested in Watching WWE.
-- 🌱 I’m currently learning github,ethical hacking.
+- 🌱 I’m currently learning CEH v12.
 - 💞️ I’m looking to collaborate on ethical hacking.
 - Contact Me If U Have Any Queries :harsha654265@gmail.com
 
