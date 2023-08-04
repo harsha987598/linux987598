@@ -19,7 +19,7 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Python, Java, MySQL, C Programming, WEB2.0, etc.
 
 ## 📌 Sneak Peek of Main Page:
-![mockup720](/assests/images/image1.png)
+![mockup720](https://res.cloudinary.com/dwn1vouq0/image/upload/v1691151675/Harsha/wfmzyhiuq0mvxv6crexj.png)
 ![skillsmockup](/assests/images/image2.png)
 ![mockup720](/assests/images/image3.png)
 
