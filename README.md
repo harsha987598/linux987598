@@ -8,7 +8,7 @@
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 <h2> Website: 
-<a href="https://www.linux987598.me/" target="_blank">Visit Now🚀</a>
+<a href="https://linux987598.github.io/Portfolio-Harsha-Vardhan/" target="_blank">Visit Now🚀</a>
 </h2> 
 
 ## 📌 Technical Skills:
