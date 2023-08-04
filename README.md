@@ -1,4 +1,3 @@
-
 ## Portfolio-Website
 
 <a href="https://github.com/linux987598/Portfolio-Harsha-Vardhan"><img src="" alt=""/></a>
@@ -20,9 +19,9 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 #### Extras : Python, Java, MySQL, C Programming, WEB2.0, etc.
 
 ## 📌 Sneak Peek of Main Page:
-![mockup720](/assests/images/Screenshot (24).png)
-![skillsmockup](/assests/images/Screenshot (26).png)
-![mockup720](/assests/images/Screenshot (27).png)
+![mockup720](/assests/images/image1.png)
+![skillsmockup](/assests/images/image2.png)
+![mockup720](/assests/images/image3.png)
 
 <h2>📬 Contact</h2>
 
